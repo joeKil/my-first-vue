@@ -1,0 +1,18 @@
+로딩 프로그레스
+https://github.com/hilongjw/vue-progressbar
+
+부트스트랩 프로그레스 예시
+https://bootstrap-vue.org/docs/components/progress
+
+심플 프로그레스
+https://www.npmjs.com/package/vue-simple-progress
+
+progress 셋인터벌, 클린 인터벌
+클린
+https://www.w3schools.com/jsref/met_win_clearinterval.asp
+셋
+https://www.w3schools.com/jsref/met_win_setinterval.asp
+
+내 위도 경도 정보 허락 받아서 가져오기
+https://www.raymondcamden.com/2019/09/01/using-geolocation-with-vuejs
+
